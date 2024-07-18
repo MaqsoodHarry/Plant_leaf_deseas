@@ -1,1 +1,1 @@
-# Plant_leaf_deseas
+# Plant_leaf_disease
